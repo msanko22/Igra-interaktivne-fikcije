@@ -8,3 +8,5 @@ Igra interaktivne fikcije - Smiljan Story - projekt iz predmeta Deklarativno pro
 4. Nakon što se stranica učita, odaberite opciju **Play in browser** kako biste započeli igrati igru.
 
 Službeni kod projekta nalazi se na poveznici: https://github.com/msanko22/Igra-interaktivne-fikcije
+
+Napomena: ukoliko se pri otvaranju overleaf projekta automatski ne otvori Rad.tex, potrebno je otvoriti isti unutar overleaf direktorija te kliknuti na Recompile
